@@ -24,17 +24,17 @@ To be a leading player in offshore marine logistics, engineering, procurement an
                 <div class="col-auto col-sm-4">
                   <h6>Quick links</h6>
                   <ul class="list list-xl small font-weight-normal">
-                    <li class="list-item"><a class="list-link" href="careers.html">Careers</a></li>
-                    <li class="list-item"><a class="list-link" href="services.html">Services</a></li>
-                    <li class="list-item"><a class="list-link" href="#">News</a></li>
-                    <li class="list-item"><a class="list-link" href="portfolio.html">Portfolio</a></li>
+                    <li class="list-item"><a class="list-link" href="#">Careers</a></li>
+                    <li class="list-item"><a class="list-link" href="/services">Services</a></li>
+                    <li class="list-item"><a class="list-link" href="/about">About us</a></li>
+                    <li class="list-item"><a class="list-link" href="/track">Track Record</a></li>
                   </ul>
                 </div>
                 <div class="col-auto col-sm-4">
                   <h6>Who we are</h6>
                   <ul class="list list-xl small font-weight-normal">
-                    <li class="list-item"><a class="list-link" href="about-us.html">About us</a></li>
-                    <li class="list-item"><a class="list-link" href="#">Our team</a></li>
+                    <li class="list-item"><a class="list-link" href="/about">About us</a></li>
+                    <li class="list-item"><a class="list-link" href="/track">Track Record</a></li>
                   </ul>
                 </div>
               </div>
@@ -43,18 +43,18 @@ To be a leading player in offshore marine logistics, engineering, procurement an
               <div class="post-inline-group post-area">
                       <article class="post post-inline post-sm">
                         <div class="media media-lg flex-column flex-xs-row">
-                          <div class="media-left"><a class="post-img-link" href="single-post.html"><img src="images/GMT-Brochure-FINAL-Lo-Res-94 (1).jpg" alt="" width="180" height="116"/></a></div>
+                          <div class="media-left"><a class="post-img-link" href="#"><img src="images/GMT-Brochure-FINAL-Lo-Res-94 (1).jpg" alt="" width="180" height="116"/></a></div>
                           <div class="media-body">
-                            <div class="post-title h4 h4-small"><a href="single-post.html">Lagos</a></div>
+                            <div class="post-title h4 h4-small"><a href="#">LAGOS</a></div>
 
                           </div>
                         </div>
                       </article>
                       <article class="post post-inline post-sm">
                         <div class="media media-lg flex-column flex-xs-row">
-                          <div class="media-left"><a class="post-img-link" href="single-post.html"><img src="images/GMT-Brochure-FINAL-Lo-Res-89.jpg" alt="" width="180" height="116"/></a></div>
+                          <div class="media-left"><a class="post-img-link" href="#"><img src="images/GMT-Brochure-FINAL-Lo-Res-89.jpg" alt="" width="180" height="116"/></a></div>
                           <div class="media-body">
-                            <div class="post-title h4 h4-small"><a href="single-post.html">WARRI & port harcourt</a></div>
+                            <div class="post-title h4 h4-small"><a href="#">WARRI & PORT HARCOURT</a></div>
 
                           </div>
                         </div>
