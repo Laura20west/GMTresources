@@ -66,7 +66,7 @@ To be a leading player in offshore marine logistics, engineering, procurement an
           <div class="row row-15 align-items-center justify-content-between footer-panel novi-disabled">
             <div class="col-auto">
                     <!-- Copyright-->
-                    <p class="rights"><span>&copy; 2024&nbsp;</span><span>GMT Energy Resources</span><span>. All rights reserved.&nbsp;</span><a class="rights-link" href="privacy-policy.html">Privacy Policy</a></p>
+                    <p class="rights"><span>&copy; 2024&nbsp;</span><span>GMT Energy Resources</span><span>. All rights reserved.&nbsp;</span><a class="rights-link" href="#">Privacy Policy</a></p>
             </div>
             <div class="col-auto">
               <div class="group-30 d-flex text-white"><a class="icon icon-xs icon-social int-youtube novi-icon" href="#"></a><a class="icon icon-xs icon-social int-facebook novi-icon" href="#"></a><a class="icon icon-xs icon-social int-instagram novi-icon" href="#"></a><a class="icon icon-xs icon-social int-twitter novi-icon" href="#"></a><a class="icon icon-xs icon-social int-linkedin novi-icon" href="#"></a></div>
